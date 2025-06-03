@@ -43,9 +43,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=armando0405&theme=tokyonight&hide_border=true" alt="Streak Stats" /> <br> 
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=armando0405&theme=tokyo-night" alt="Activity Graph" /> 
 </p>
+<p align="center">
+  <iframe src="https://github.com/users/armando0405/contributions" height="150" width="600" frameborder="0" scrolling="no"></iframe>
+</p>
 
-
-
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/armando0405" alt="Commit Activity" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=armando0405&theme=tokyo" />
+</p>
 
 
 
