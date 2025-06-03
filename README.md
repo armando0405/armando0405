@@ -16,24 +16,15 @@
 </p>
 
 
-### 💻 About Me
+<img align="right" width="300px" alt="Coding Gif" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+### 💻&nbsp;***About me***
 
 - 🔍 Tecnólogo en Análisis y Desarrollo de Software | SENA - Cali  
 - ⚙️ Apasionado por el backend y el desarrollo de soluciones escalables  
 - 📌 Actualmente mejorando mis habilidades en Java y Spring Boot  
 - 🧠 Fuerte en Laravel, SQL y control de versiones con Git  
 - 🌱 Siempre aprendiendo, siempre mejorando  
-
-    </td>
-    <td width="40%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Coding Gif" width="200" />
-    </td>
-  </tr>
-</table>
 
 ### 🛠️ SKILLS
 
@@ -59,19 +50,3 @@
 </div>
 
  
- <div align=center>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=armando0405&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-  
- </div>
-
-<div>  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-</div>
