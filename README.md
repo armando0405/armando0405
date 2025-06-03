@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Frankil Moreno</h1>
+<h1 align="center">Hi 👋, Frankil Moreno</h1>
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/frankil-moreno/" target="_blank"> 
@@ -12,12 +12,19 @@
 <h3 align="center">Backend Developer | Java | Spring Boot | Laravel | SQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Back-end+Developer;Java+%7C+Spring+Boot+%7C+Laravel;Clean+Code+%7C+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Team+Player;Effective+Communication;Problem+Solver;Continuous+Learner;Adaptable" alt="Typing SVG" />
 </p>
+### 💻 About Me
 
+- 🔍 Tecnólogo en Análisis y Desarrollo de Software | SENA - Cali  
+- ⚙️ Apasionado por el backend y el desarrollo de soluciones escalables  
+- 📌 Actualmente mejorando mis habilidades en Java y Spring Boot  
+- 🧠 Fuerte en Laravel, SQL y control de versiones con Git  
+- 🌱 Siempre aprendiendo, siempre mejorando
+- 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ SKILLS
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -37,13 +44,7 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=armando0405&theme=tokyo-night" alt="Activity Graph" /> 
 </p>
 
-### 💻 About Me
 
-- 🔍 Tecnólogo en Análisis y Desarrollo de Software | SENA - Cali  
-- ⚙️ Apasionado por el backend y el desarrollo de soluciones escalables  
-- 📌 Actualmente mejorando mis habilidades en Java y Spring Boot  
-- 🧠 Fuerte en Laravel, SQL y control de versiones con Git  
-- 🌱 Siempre aprendiendo, siempre mejorando  
 
 
 
