@@ -4,9 +4,9 @@
   <a href="https://www.linkedin.com/in/frankil-moreno/" target="_blank"> 
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /> 
   </a> 
-  <a href="https://github.com/armando0405" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" /> 
-  </a> 
+<a href="https://www.instagram.com/armandomoreno_04" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+</a>
 </p>
 
 <h3 align="center">Backend Developer | Java | Spring Boot | Laravel | SQL</h3>
@@ -20,41 +20,33 @@
 
 ### 💻&nbsp;***About me***
 
-- 🔍 Tecnólogo en Análisis y Desarrollo de Software | SENA - Cali  
-- ⚙️ Apasionado por el backend y el desarrollo de soluciones escalables  
-- 📌 Actualmente mejorando mis habilidades en Java y Spring Boot  
-- 🧠 Fuerte en Laravel, SQL y control de versiones con Git  
-- 🌱 Siempre aprendiendo, siempre mejorando  
+- 🔍 Technologist in Software Analysis and Development | SENA - Cali  
+- ⚙️ Passionate about backend development and building scalable solutions  
+- 📌 Currently improving my skills in Java and Spring Boot  
+- 🧠 Strong in Laravel, SQL, and version control with Git  
+- 🌱 Always learning, always improving  
 
-### 🛠️ SKILLS
+### 🛠️ My Skills
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-</p>
+<span>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</span>
+
 
 ---
-
   
 <div align=center>
-  
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=armando0405&theme=tokyonight&hide_border=true&background=1a1b27" />
 </div>
 
-<div>  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-</div>
+<h2 align=center>
+ 💻 Check Out My Repos ⬇️
+</h2>  
