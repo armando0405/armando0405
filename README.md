@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Frankil Moreno</h1>
-<h3 align="center">Backend Developer | Java · Spring Boot · Laravel · SQL</h3>
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/frankil-moreno/" target="_blank"> 
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /> 
+  </a> 
+  <a href="https://github.com/armando0405" target="_blank"> 
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" /> 
+  </a> 
+</p>
+
+<h3 align="center">Backend Developer | Java | Spring Boot | Laravel | SQL</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Back-end+Developer;Java+%7C+Spring+Boot+%7C+Laravel;Clean+Code+%7C+Scalable+Solutions" alt="Typing SVG" />
@@ -22,6 +32,11 @@
 
 ---
 
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=armando0405&theme=tokyonight&hide_border=true" alt="Streak Stats" /> <br> 
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=armando0405&theme=tokyo-night" alt="Activity Graph" /> 
+</p>
+
 ### 💻 About Me
 
 - 🔍 Tecnólogo en Análisis y Desarrollo de Software | SENA - Cali  
@@ -30,16 +45,6 @@
 - 🧠 Fuerte en Laravel, SQL y control de versiones con Git  
 - 🌱 Siempre aprendiendo, siempre mejorando  
 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=armando0405&theme=tokyonight&hide_border=true" alt="Streak Stats" /> <br> 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=armando0405&theme=tokyo-night" alt="Activity Graph" /> 
-</p>
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/frankil-moreno/" target="_blank"> 
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /> 
-  </a> 
-  <a href="https://github.com/armando0405" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" /> 
-  </a> 
-</p>
+
+
