@@ -22,12 +22,15 @@
 </p>
 
 ---
-
+ddd
 ### 💻 About Me
 
-```txt
+
 🔍 Tecnólogo en Análisis y Desarrollo de Software | SENA - Cali  
 ⚙️ Apasionado por el backend y el desarrollo de soluciones escalables  
 📌 Actualmente mejorando mis habilidades en Java + Spring Boot  
 🧠 Fuerte en Laravel, SQL y Git  
 🌱 Siempre aprendiendo, siempre mejorando  
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=armando0405&theme=tokyonight&hide_border=true" alt="Streak Stats" /> <br> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=armando0405&theme=tokyo-night" alt="Activity Graph"/> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/frankil-moreno/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /> </a> <a href="https://github.com/armando0405" target="_blank"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" /> </a> </p>
